@@ -16,5 +16,5 @@
 //= require bootstrap
 
 $(function (){
-        $('#appointment_timing').datepicker();
+        $('#appointment_timing.codepeaker').datepicker();
 });
